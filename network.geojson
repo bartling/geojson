@@ -1,0 +1,2748 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.87772613",
+        "longitude": "-87.65478743",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1,Aberdeen St & Jackson Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.881487",
+        "longitude": "-87.654752",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2,Aberdeen St & Madison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.866095",
+        "longitude": "-87.607267",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3,Adler Planetarium]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "147",
+        "latitude": "41.91785887",
+        "longitude": "-87.668919",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4,Ashland Ave & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.899643",
+        "longitude": "-87.6677",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5,Ashland Ave & Augusta Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.956061",
+        "longitude": "-87.668869",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6,Ashland Ave & Belle Plaine Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.895966",
+        "longitude": "-87.667747",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7,Ashland Ave & Chicago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "21",
+        "latitude": "41.903456",
+        "longitude": "-87.66777",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8,Ashland Ave & Division St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.950687",
+        "longitude": "-87.6687",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9,Ashland Ave & Grace St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.936083",
+        "longitude": "-87.669807",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10,Ashland Ave & Wellington Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "155",
+        "latitude": "41.92883",
+        "longitude": "-87.668507",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11,Ashland Ave & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "50",
+        "latitude": "41.91844",
+        "longitude": "-87.65222",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12,Bissell St & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.802562",
+        "longitude": "-87.590368",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13,Blackstone Ave & Hyde Park Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "21",
+        "latitude": "41.937739",
+        "longitude": "-87.644094",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14,Broadway & Barry Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.940106",
+        "longitude": "-87.645451",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15,Broadway & Belmont Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.978353",
+        "longitude": "-87.659753",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16,Broadway & Berwyn Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "12",
+        "latitude": "41.945512",
+        "longitude": "-87.64598",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17,Broadway & Cornelia Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.952833",
+        "longitude": "-87.649993",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18,Broadway & Sheridan Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "13",
+        "latitude": "41.854016",
+        "longitude": "-87.695445",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19,California Ave & 21st St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "16",
+        "latitude": "41.91855",
+        "longitude": "-87.69723",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20,California Ave & Francis Pl]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "60",
+        "latitude": "41.922695",
+        "longitude": "-87.697153",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21,California Ave & Milwaukee Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.910535",
+        "longitude": "-87.689556",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22,Campbell Ave & North Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.87923",
+        "longitude": "-87.640015",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23,Canal St & Adams St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.874337",
+        "longitude": "-87.639566",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24,Canal St & Harrison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.87811421",
+        "longitude": "-87.63997112",
+        "dpcapacity": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25,Canal St & Jackson Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.882091",
+        "longitude": "-87.639833",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26,Canal St & Madison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.8807",
+        "longitude": "-87.63947",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27,Canal St & Monroe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "178",
+        "latitude": "41.92675599",
+        "longitude": "-87.63442878",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28,Cannon Dr & Fullerton Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.889875",
+        "longitude": "-87.621994",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29,Cityfront Plaza & N Water St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.907781",
+        "longitude": "-87.685854",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30,Claremont Ave & Hirsch St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.957879",
+        "longitude": "-87.649519",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31,Clarendon Ave & Gordon Ter]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.961004",
+        "longitude": "-87.649603",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32,Clarendon Ave & Junior Ter]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.967968",
+        "longitude": "-87.650001",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33,Clarendon Ave & Leland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.896544",
+        "longitude": "-87.630931",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34,Clark St & Chicago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.87593267",
+        "longitude": "-87.63058454",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35,Clark St & Congress Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "29",
+        "latitude": "41.903233",
+        "longitude": "-87.631253",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36,Clark St & Elm St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "48",
+        "latitude": "41.915689",
+        "longitude": "-87.6346",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37,Clark St & Lincoln Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.961588",
+        "longitude": "-87.666036",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38,Clark St & Montrose Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "41",
+        "latitude": "41.911791",
+        "longitude": "-87.631841",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39,Clark St & North Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.88457623",
+        "longitude": "-87.63188991",
+        "dpcapacity": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40,Clark St & Randolph St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.907993",
+        "longitude": "-87.631501",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [41,Clark St & Schiller St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "27",
+        "latitude": "41.94893",
+        "longitude": "-87.65775",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42,Clark St & Waveland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "56",
+        "latitude": "41.93649682",
+        "longitude": "-87.64753866",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43,Clark St & Wellington Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.973385",
+        "longitude": "-87.668365",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44,Clark St & Winnemac Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "30",
+        "latitude": "41.929546",
+        "longitude": "-87.643118",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45,Clark St & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "63",
+        "latitude": "41.918216",
+        "longitude": "-87.656936",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46,Clifton Ave & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.968873",
+        "longitude": "-87.658857",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47,Clifton Ave & Lawrence Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.88583274",
+        "longitude": "-87.64138231",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48,Clinton St & Lake St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.8815824",
+        "longitude": "-87.64127743",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49,Clinton St & Madison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "24",
+        "latitude": "41.875885",
+        "longitude": "-87.640795",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50,Clinton St & Tilden St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "15",
+        "latitude": "41.88338",
+        "longitude": "-87.64117",
+        "dpcapacity": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51,Clinton St & Washington Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "10",
+        "latitude": "41.904509",
+        "longitude": "-87.6405",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [52,Clybourn Ave & Division St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.884337",
+        "longitude": "-87.630183",
+        "dpcapacity": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53,Daley Center Plaza]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.899714",
+        "longitude": "-87.677234",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54,Damen Ave & Augusta Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.920082",
+        "longitude": "-87.677855",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55,Damen Ave & Charleston St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.895769",
+        "longitude": "-87.67722",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [56,Damen Ave & Chicago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "15",
+        "latitude": "41.916027",
+        "longitude": "-87.677411",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [57,Damen Ave & Cortland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "14",
+        "latitude": "41.90331",
+        "longitude": "-87.67695",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [58,Damen Ave & Division St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.967094",
+        "longitude": "-87.679028",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [59,Damen Ave & Leland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.9406",
+        "longitude": "-87.6785",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60,Damen Ave & Melrose Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "95",
+        "latitude": "41.90939601",
+        "longitude": "-87.67769193",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [61,Damen Ave & Pierce Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "25",
+        "latitude": "41.93588",
+        "longitude": "-87.67842",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [62,Damen Ave & Wellington Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "71",
+        "latitude": "41.91057803",
+        "longitude": "-87.64942193",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [63,Dayton St & North Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "16",
+        "latitude": "41.899007",
+        "longitude": "-87.629928",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [64,Dearborn Pkwy & Delaware Pl]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.87935636",
+        "longitude": "-87.62979104",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65,Dearborn St & Adams St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "10",
+        "latitude": "41.88131982",
+        "longitude": "-87.62952092",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66,Dearborn St & Monroe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "17",
+        "latitude": "41.88871604",
+        "longitude": "-87.64444785",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67,Desplaines St & Kinzie St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.89637337",
+        "longitude": "-87.66098386",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [68,Eckhart Park]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.89186",
+        "longitude": "-87.62062",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [69,Fairbanks Ct & Grand Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.881131",
+        "longitude": "-87.635185",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70,Franklin St & Arcade Pl]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "21",
+        "latitude": "41.89680204",
+        "longitude": "-87.63563839",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71,Franklin St & Chicago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.87770796",
+        "longitude": "-87.63532114",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [72,Franklin St & Jackson Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "15",
+        "latitude": "41.885837",
+        "longitude": "-87.6355",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73,Franklin St & Lake St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.891733",
+        "longitude": "-87.648727",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74,Green St & Milwaukee Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.884078",
+        "longitude": "-87.648684",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75,Green St & Randolph St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "14",
+        "latitude": "41.932595",
+        "longitude": "-87.665939",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [76,Greenview Ave & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "247",
+        "latitude": "41.92533",
+        "longitude": "-87.6658",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77,Greenview Ave & Fullerton Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.809835",
+        "longitude": "-87.599383",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78,Greenwood Ave & 47th St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.830661",
+        "longitude": "-87.647172",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79,Halsted St & 35th St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.847203",
+        "longitude": "-87.646795",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80,Halsted St & Archer Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.90854",
+        "longitude": "-87.648568",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81,Halsted St & Blackhawk St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "30",
+        "latitude": "41.919936",
+        "longitude": "-87.64883",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82,Halsted St & Dickens Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "19",
+        "latitude": "41.933341",
+        "longitude": "-87.648747",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83,Halsted St & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.88175",
+        "longitude": "-87.6478",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84,Halsted St & Madison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.87184",
+        "longitude": "-87.64664",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [85,Halsted St & Polk St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.943662",
+        "longitude": "-87.648917",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86,Halsted St & Roscoe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "26",
+        "latitude": "41.949333",
+        "longitude": "-87.649634",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [87,Halsted St & Waveland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "27",
+        "latitude": "41.913778",
+        "longitude": "-87.64884",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88,Halsted St & Willow St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "18",
+        "latitude": "41.929143",
+        "longitude": "-87.649077",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89,Halsted St & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "124",
+        "latitude": "41.93262",
+        "longitude": "-87.642385",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90,Hampden Ct & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.867888",
+        "longitude": "-87.623041",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [91,Indiana Ave & Roosevelt Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.880422",
+        "longitude": "-87.642746",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [92,Jefferson St & Monroe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.929567",
+        "longitude": "-87.707857",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [93,Kedzie Ave & Milwaukee Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.921525",
+        "longitude": "-87.707322",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [94,Kedzie Ave & Palmer Ct]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "19",
+        "latitude": "41.89384315",
+        "longitude": "-87.64185116",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95,Kingsbury St & Erie St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.940775",
+        "longitude": "-87.639192",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96,Lake Shore Dr & Belmont Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.932684",
+        "longitude": "-87.63625",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97,Lake Shore Dr & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "19",
+        "latitude": "41.88105",
+        "longitude": "-87.61697",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98,Lake Shore Dr & Monroe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.911722",
+        "longitude": "-87.626804",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99,Lake Shore Dr & North Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "24",
+        "latitude": "41.89257",
+        "longitude": "-87.614492",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100,Lake Shore Dr & Ohio St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "20",
+        "latitude": "41.936669",
+        "longitude": "-87.636794",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101,Lake Shore Dr & Wellington Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "42",
+        "latitude": "41.925858",
+        "longitude": "-87.638973",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102,Lakeview Ave & Fullerton Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "12",
+        "latitude": "41.91797",
+        "longitude": "-87.64368",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103,Larrabee St & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "45",
+        "latitude": "41.897764",
+        "longitude": "-87.642884",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104,Larrabee St & Kingsbury St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "48",
+        "latitude": "41.91468",
+        "longitude": "-87.64332",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105,Larrabee St & Menomonee St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "14",
+        "latitude": "41.91021",
+        "longitude": "-87.6435",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106,Larrabee St & North Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "97",
+        "latitude": "41.92175",
+        "longitude": "-87.64401",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107,Larrabee St & Webster Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "13",
+        "latitude": "41.890749",
+        "longitude": "-87.63206",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108,LaSalle St & Illinois St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.882664",
+        "longitude": "-87.63253",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109,LaSalle St & Washington St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.917805",
+        "longitude": "-87.682437",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110,Leavitt St & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.910652",
+        "longitude": "-87.6824",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111,Leavitt St & North Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.946176",
+        "longitude": "-87.673308",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112,Lincoln Ave & Addison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "168",
+        "latitude": "41.918273",
+        "longitude": "-87.638116",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113,Lincoln Ave & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "10",
+        "latitude": "41.939365",
+        "longitude": "-87.668385",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114,Lincoln Ave & Belmont Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "209",
+        "latitude": "41.932225",
+        "longitude": "-87.658617",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115,Lincoln Ave & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.96583",
+        "longitude": "-87.68651",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116,Lincoln Ave & Eastwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.925905",
+        "longitude": "-87.64926",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117,Lincoln Ave & Fullerton Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.962391",
+        "longitude": "-87.684146",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118,Lincoln Ave & Leavitt St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "14",
+        "latitude": "41.94334",
+        "longitude": "-87.67097",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119,Lincoln Ave & Roscoe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.94911",
+        "longitude": "-87.675112",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120,Lincoln Ave & Waveland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.930584",
+        "longitude": "-87.685126",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121,Logan Blvd & Elston Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.877945",
+        "longitude": "-87.662007",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122,Loomis St & Jackson Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.872187",
+        "longitude": "-87.661501",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123,Loomis St & Lexington St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "64",
+        "latitude": "41.869417",
+        "longitude": "-87.660996",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124,Loomis St & Taylor St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.886773",
+        "longitude": "-87.656001",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125,May St & Fulton St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.88397",
+        "longitude": "-87.655688",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126,May St & Randolph St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "28",
+        "latitude": "41.89102",
+        "longitude": "-87.6173",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127,McClurg Ct & Illinois St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.85137517",
+        "longitude": "-87.61883465",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128,McCormick Place]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.864059",
+        "longitude": "-87.623727",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129,Michigan Ave & 14th St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.8760656",
+        "longitude": "-87.62443336",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130,Michigan Ave & Congress Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.87785",
+        "longitude": "-87.62408",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131,Michigan Ave & Jackson Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.88605812",
+        "longitude": "-87.62428934",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132,Michigan Ave & Lake St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.882134",
+        "longitude": "-87.625125",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133,Michigan Ave & Madison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "85",
+        "latitude": "41.90096039",
+        "longitude": "-87.62377664",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134,Michigan Ave & Oak St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "45",
+        "latitude": "41.89766",
+        "longitude": "-87.62351",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135,Michigan Ave & Pearson St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.88389277",
+        "longitude": "-87.62464914",
+        "dpcapacity": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136,Michigan Ave & Washington St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "12",
+        "latitude": "41.89691",
+        "longitude": "-87.621743",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137,Mies van der Rohe Way & Chicago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "22",
+        "latitude": "41.8810317",
+        "longitude": "-87.62408432",
+        "dpcapacity": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138,Millennium Park]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.920195",
+        "longitude": "-87.693033",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139,Milwaukee Ave & Rockwell St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.912616",
+        "longitude": "-87.681391",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140,Milwaukee Ave & Wabansia Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.963982",
+        "longitude": "-87.638181",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [141,Montrose Harbor]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.862378",
+        "longitude": "-87.651062",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142,Morgan Ave & 14th Pl]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.88548331",
+        "longitude": "-87.65230486",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [143,Morgan St & Lake St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.871737",
+        "longitude": "-87.65103",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144,Morgan St & Polk St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.865212",
+        "longitude": "-87.617759",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145,Museum Campus]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "14",
+        "latitude": "41.90068",
+        "longitude": "-87.6626",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [146,Noble St & Milwaukee Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "11",
+        "latitude": "41.89636246",
+        "longitude": "-87.65406127",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147,Ogden Ave & Chicago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.891795",
+        "longitude": "-87.658751",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [148,Ogden Ave & Race Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "12",
+        "latitude": "41.902924",
+        "longitude": "-87.637715",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [149,Orleans St & Elm St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "15",
+        "latitude": "41.888243",
+        "longitude": "-87.63639",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [150,Orleans St & Merchandise Mart Plaza]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "49",
+        "latitude": "41.93186",
+        "longitude": "-87.67079",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151,Paulina St & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "14",
+        "latitude": "41.947836",
+        "longitude": "-87.645416",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [152,Pine Grove Ave & Addison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.954383",
+        "longitude": "-87.648043",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [153,Pine Grove Ave & Irving Park Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "19",
+        "latitude": "41.939743",
+        "longitude": "-87.658865",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [154,Racine Ave & Belmont Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.87464",
+        "longitude": "-87.65703",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [155,Racine Ave & Congress Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "244",
+        "latitude": "41.92556258",
+        "longitude": "-87.65840426",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [156,Racine Ave & Fullerton Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "58",
+        "latitude": "41.928887",
+        "longitude": "-87.658971",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [157,Racine Ave & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.95469",
+        "longitude": "-87.67393",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [158,Ravenswood Ave & Irving Park Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.961626",
+        "longitude": "-87.674101",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [159,Ravenswood Ave & Montrose Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "12",
+        "latitude": "41.883004",
+        "longitude": "-87.651148",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [160,Sangamon St & Washington Blvd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.894666",
+        "longitude": "-87.638437",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [161,Sedgwick St & Huron St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "25",
+        "latitude": "41.910579",
+        "longitude": "-87.638618",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [162,Sedgwick St & North Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.907576",
+        "longitude": "-87.638517",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [163,Sedgwick St & Schiller St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "77",
+        "latitude": "41.92197",
+        "longitude": "-87.63854",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [164,Sedgwick St & Webster Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.943403",
+        "longitude": "-87.679618",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [165,Seeley Ave & Roscoe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "147",
+        "latitude": "41.94688",
+        "longitude": "-87.65445",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [166,Sheffield Ave & Addison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "297",
+        "latitude": "41.92560188",
+        "longitude": "-87.65370804",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [167,Sheffield Ave & Fullerton Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "90",
+        "latitude": "41.90959193",
+        "longitude": "-87.65349723",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168,Sheffield Ave & Kingsbury St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "19",
+        "latitude": "41.921687",
+        "longitude": "-87.653714",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [169,Sheffield Ave & Webster Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "127",
+        "latitude": "41.936253",
+        "longitude": "-87.653566",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170,Sheffield Ave & Wellington Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "77",
+        "latitude": "41.913688",
+        "longitude": "-87.652855",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171,Sheffield Ave & Willow St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "42",
+        "latitude": "41.928712",
+        "longitude": "-87.653833",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172,Sheffield Ave & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "7",
+        "latitude": "41.9584",
+        "longitude": "-87.65423",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173,Sheridan Rd & Buena Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "25",
+        "latitude": "41.95434",
+        "longitude": "-87.654601",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174,Sheridan Rd & Irving Park Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.96167",
+        "longitude": "-87.65464",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175,Sheridan Rd & Montrose Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "68",
+        "latitude": "41.93949",
+        "longitude": "-87.66378",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [176,Southport Ave & Belmont Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "27",
+        "latitude": "41.921004",
+        "longitude": "-87.663257",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [177,Southport Ave & Clybourn Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.954177",
+        "longitude": "-87.664358",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [178,Southport Ave & Irving Park Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "18",
+        "latitude": "41.943739",
+        "longitude": "-87.66402",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [179,Southport Ave & Roscoe St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "36",
+        "latitude": "41.94815",
+        "longitude": "-87.66394",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [180,Southport Ave & Waveland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "103",
+        "latitude": "41.93584",
+        "longitude": "-87.6637",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [181,Southport Ave & Wellington Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "466",
+        "latitude": "41.92888",
+        "longitude": "-87.66317",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [182,Southport Ave & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "10",
+        "latitude": "41.893975",
+        "longitude": "-87.628623",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [183,State St & Erie St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.87395806",
+        "longitude": "-87.62773949",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [184,State St & Harrison St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "28",
+        "latitude": "41.88918",
+        "longitude": "-87.6277",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [185,State St & Kinzie St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.897448",
+        "longitude": "-87.628722",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [186,State St & Pearson St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.8847302",
+        "longitude": "-87.62773357",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [187,State St & Randolph St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.877181",
+        "longitude": "-87.627844",
+        "dpcapacity": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [188,State St & Van Buren St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "4",
+        "latitude": "41.887155",
+        "longitude": "-87.62775",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [189,State St & Wacker Dr]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "10",
+        "latitude": "41.917741",
+        "longitude": "-87.691392",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [190,Stave St & Armitage Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.894448",
+        "longitude": "-87.622663",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [191,St Clair St & Erie St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.93132",
+        "longitude": "-87.638742",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [192,Stockton Dr & Wrightwood Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "36",
+        "latitude": "41.891071",
+        "longitude": "-87.6122",
+        "dpcapacity": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [193,Streeter Dr & Illinois St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "93",
+        "latitude": "41.926277",
+        "longitude": "-87.630834",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [194,Theater on the Lake]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "3",
+        "latitude": "41.891738",
+        "longitude": "-87.626937",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [195,Wabash Ave & Grand Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "5",
+        "latitude": "41.867173",
+        "longitude": "-87.62595501",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [196,Wabash Ave & Roosevelt Rd]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.856802",
+        "longitude": "-87.633879",
+        "dpcapacity": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [197,Wells St & 19th St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "9",
+        "latitude": "41.912202",
+        "longitude": "-87.634664",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [198,Wells St & Concord Ln]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "24",
+        "latitude": "41.893832",
+        "longitude": "-87.634195",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [199,Wells St & Erie St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.906724",
+        "longitude": "-87.63483",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [200,Wells St & Evergreen Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "2",
+        "latitude": "41.892238",
+        "longitude": "-87.633985",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [201,Wells St & Ohio St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "23",
+        "latitude": "41.89993001",
+        "longitude": "-87.63443007",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [202,Wells St & Walton St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.902893",
+        "longitude": "-87.687275",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [203,Western Ave & Division St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "8",
+        "latitude": "41.966555",
+        "longitude": "-87.688487",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [204,Western Ave & Leland Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "6",
+        "latitude": "41.915533",
+        "longitude": "-87.687051",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [205,Western Ave & Winnebago Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "40",
+        "latitude": "41.94018",
+        "longitude": "-87.65304",
+        "dpcapacity": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [206,Wilton Ave & Belmont Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "208",
+        "latitude": "41.93250008",
+        "longitude": "-87.65268082",
+        "dpcapacity": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [207,Wilton Ave & Diversey Pkwy]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "17",
+        "latitude": "41.90332",
+        "longitude": "-87.67273",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [208,Wood St & Division St]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "1",
+        "latitude": "41.89113",
+        "longitude": "-87.67203",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [209,Wood St & Grand Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "34",
+        "latitude": "41.907655",
+        "longitude": "-87.672552",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [210,Wood St & Milwaukee Ave]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Freq": "26",
+        "latitude": "41.910329",
+        "longitude": "-87.672516",
+        "dpcapacity": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [211,Wood St & North Ave]
+      }
+    }
+  ]
+}
